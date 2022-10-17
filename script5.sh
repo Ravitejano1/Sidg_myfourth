@@ -11,5 +11,6 @@ if [ $val -eq 30 ]
 then
         echo "Value is 30"
 else
-        echo "Sorry , condition is failed"
+	echo "Sorry , condition is failed"
+	echo "Value is not equal to 30"
 fi
